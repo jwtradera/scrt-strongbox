@@ -1,4 +1,4 @@
-# Serenity Shield StrongBox® Contract
+# StrongBox® Contract
 ​
 The purpose of this smart contract is to facilitate secure creation, management, and end-to-end encrypted access of all StrongBox® account(s) hosted on Secret Network.
 ​
